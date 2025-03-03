@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=N0KERNEL Fork by @iMHereWhy
+kernel.string=Dark_Kernel-2 by @iMHereWhy
 do.devicecheck=1
 do.modules=0
 do.systemless=1
